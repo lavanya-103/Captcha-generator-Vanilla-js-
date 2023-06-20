@@ -1,1 +1,1 @@
-# Captcha-generator-Vanilla-js-
+# Captcha-generator-(Vanilla-js)
